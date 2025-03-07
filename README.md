@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Kamal</h1>
-<h3 align="center">A passionate web developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kamal9494&label=Profile%20views&color=0e75b6&style=flat" alt="kamal9494" /> </p>
 
