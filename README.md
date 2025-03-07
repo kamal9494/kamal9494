@@ -3,9 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kamal9494&label=Profile%20views&color=0e75b6&style=flat" alt="kamal9494" /> </p>
 
-- 🌱 I’m currently learning **Node.js**
-
-- 💬 Ask me about **Web Development**
+- 🌱 I’m currently working as a Product Engineer.
 
 - 📫 How to reach me **kamaltejp@gmail.com**
 
